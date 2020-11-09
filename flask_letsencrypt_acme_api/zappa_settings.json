@@ -1,0 +1,10 @@
+{
+    "production": {
+        "app_function": "letsencrypt-lambda-s3.app",
+        "aws_region": "ap-south-1",
+        "profile_name": "default",
+        "project_name": "letsencrypt-lam",
+        "runtime": "python3.6",
+        "timeout_seconds": 900
+    }
+}

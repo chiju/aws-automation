@@ -1,0 +1,9 @@
+boto3
+flask
+zappa
+cryptography
+pyOpenSSL==17.0.0
+CloudFlare
+route53
+acme 
+josepy
